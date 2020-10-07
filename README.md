@@ -125,6 +125,7 @@ Class materials: Grid paper
 * (intermediate+) Make a mini drawing program. Think about how people could swap between different kinds of brushes, change canvas color, etc.
 
 ### Readings
+Note: Please be prepared to take a thought to bring back for discussion next week. (e.g. a quote that resonated with you, an opinion that you disagreed with, etc.)
 
 *  [Computer Grass is Natural Grass](Readings/Computer_Grass_Is_Natural_Grass.pdf)
 *  [Vera Molar Interview](Readings/Vera_Molnar.pdf)
