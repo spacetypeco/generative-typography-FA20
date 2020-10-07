@@ -3,7 +3,7 @@
 ![](https://media.giphy.com/media/kaaDf1Yp2EI7mQo30g/giphy.gif)
 
 - Type@Cooper Public Workshop Fall 2020
-- 6:30–9:30pm, 2 sections (Tuesdays & Thursdays), June 2nd to Aug 6th
+- 6:30–9:30pm, Thursdays, Oct 8th to Dec 17th
 - Instructors: [Lynne Yun](https://lynneyun.com), [Kevin Yeh](http://kevbk.com)
 - Course Discussion: Slack
 
