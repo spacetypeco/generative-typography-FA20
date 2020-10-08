@@ -137,17 +137,25 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 
 ## 📚 Technical Resources
 
-Practical Javascript:
+### p5.js tutorials:
 
-* [Expressions, Variables, and Loops](https://creative-coding.decontextualize.com/expressions-variables-and-loops/)
+**Video-based:** p5.js basics with Coding Train (Dan Shiffman): 
+[Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
-p5.js tutorials:
-
-* [p5js.org/learn](https://p5js.org/learn/)
+**Text-based:** tutorials via Allison Parrish
 * [First Steps](https://creative-coding.decontextualize.com/first-steps/)
 * [Text and Type](https://creative-coding.decontextualize.com/text-and-type/)
 
-Programming (for those who like to learn conceptually):
+**Official Documentation:**
+* [p5js.org/learn](https://p5js.org/learn/)
+
+### Practical Javascript:
+
+* [Expressions, Variables, and Loops](https://creative-coding.decontextualize.com/expressions-variables-and-loops/)
+
+
+### Programming: 
+(for those who like to learn conceptually)
   
 * [Just Javascript](https://justjavascript.com/) - super accessible, visual newsletter by Dan Abramov and Maggie Appleton.
 * [Eloquent Javascript](https://eloquentjavascript.net/00_intro.html) (Chapters 0-2) - In-depth walkthrough of JavaScript.
