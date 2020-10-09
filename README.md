@@ -52,7 +52,7 @@ Subject to adjustment.
 
 |Week|Topic| Recordings & Sketches|Assignments
 |-----|----|-----------|------
-|1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|  |Interactive piece <br> + Readings
+|1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Recording](https://cooper.zoom.us/rec/play/s7-8D_Hps6JQjRqqSIoWINAxwXFSZDCA0IEcO2yjbTthlACgj4iBM9TI4tVYcNWZ0yj0QUcfHw020zOc.21ib0LOP5aMwqEJ8) |Interactive piece <br> + Readings
 |2|[Art, Data, and Grids](#section-2-art-data-and-grids)| | Grid-inspired composition <br> + Readings
 |3|[Transformation](#section-3-transformation)| | Static or kinetic typography composition<br> + Readings
 |4|[Glitch Art](#section-4-glitch-art)||Glitch Art-inspired composition<br> + Readings
