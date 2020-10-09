@@ -124,11 +124,23 @@ Class materials: Grid paper
 * (beginner) Make an interactive brush tool
 * (intermediate+) Make a mini drawing program. Think about how people could swap between different kinds of brushes, change canvas color, etc.
 
+### Watch Video Tutorials
+
+* [Errors & Console by Coding Train (6 mins)](https://youtu.be/LuGsp5KeJMM)
+* [Code Comments by Coding Train (6 mins)](https://youtu.be/xJcrPJuem5Q)
+
 ### Readings
 Note: Please be prepared to take a thought to bring back for discussion next week. (e.g. a quote that resonated with you, an opinion that you disagreed with, etc.)
 
 *  [Computer Grass is Natural Grass](Readings/Computer_Grass_Is_Natural_Grass.pdf)
 *  [Vera Molar Interview](Readings/Vera_Molnar.pdf)
+
+### (Optional Video Tutorials)
+
+* [Shapes & Drawing by Coding Train](https://youtu.be/c3TeLi6Ns1E)
+* [Variables in p5.js(mouseX, mouseY) by Coding Train](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&t=0s)
+* [The random() Function by Coding Train](https://youtu.be/nfmV2kuQKwA)
+
 
 ### (Optional Readings)
 
