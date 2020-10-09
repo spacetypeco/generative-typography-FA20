@@ -138,6 +138,7 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 ### (Optional Video Tutorials)
 
 * [Shapes & Drawing by Coding Train](https://youtu.be/c3TeLi6Ns1E)
+* [Color by Coding Train](https://youtu.be/riiJTF5-N7c)
 * [Variables in p5.js(mouseX, mouseY) by Coding Train](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&t=0s)
 * [The random() Function by Coding Train](https://youtu.be/nfmV2kuQKwA)
 
