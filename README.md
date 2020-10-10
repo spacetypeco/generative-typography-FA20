@@ -205,9 +205,11 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * Fonts as Images (Arrays of Arrays)
 	* RGB Grids
 	* ASCII Art From Images
+* Layers / createGraphics
 * Functional Programming
 	* Organizing Code
 	* Programs within Programs
+* Objects
 
 ## ✏️ Week 2 Homework
 
