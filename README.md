@@ -216,9 +216,9 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * (intermediate+) Creating [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) inspired piece
 
 ### Readings
+* [The Fuzzy Edges of Character Encoding](https://rundog.art/issues/automateme/the-fuzzy-edges-of-character-encoding/) by Everest Pipkin
 * [Hieroglyphs](Readings/Hieroglyphs.pdf) by Aaron Marcus, 1978
 * [(P)(E)(R)(S)(E)(V)(E)(R)(E)](Readings/p-e-r-s-e-v-e-r-e.pdf) by Tauba Auerbach, 2017
-* [Unimaginable Images](Readings/Unimaginable_Images.pdf) by Joseph P. Covington III, 1978
 
 ### (Optional Readings)
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
@@ -279,14 +279,14 @@ Make a static or kinetic typographic piece.
 
 ### Readings
 
-* [The Fuzzy Edges of Character Encoding](https://rundog.art/issues/automateme/the-fuzzy-edges-of-character-encoding/) by Everest Pipkin
 * [On Weaving](https://www.are.na/block/2597972) by Anni Albers
 	* Designing as Visual Organization (pages 71-80)
+* [Unimaginable Images](Readings/Unimaginable_Images.pdf) by Joseph P. Covington III, 1978 
+
+### (Optional Readings)
 * [Computational Models for Expressive Dimensional Typography](https://www.are.na/block/6926303) by Peter Cho, 1999
 	* Background, Thoughts On Type, Concluding Remarks
 	* Optionally, look through the experiments and other sections.
-
-### (Optional Readings)
 * [Black Gooey Universe](Readings/BlackGooeyUniverse.pdf)
 * [Outer Space and Technological Progress](Readings/Outer_Space_and_Technoligical_Progress.pdf) by Roger Coqart, 1978
 * [On Software, or the Persistence of Visual Knowledge](Readings/wendy-hui-kyong-chun_on-software.pdf) by Wendy Chun, 2004
