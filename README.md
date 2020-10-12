@@ -205,11 +205,9 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * Fonts as Images (Arrays of Arrays)
 	* RGB Grids
 	* ASCII Art From Images
-* Layers / createGraphics
 * Functional Programming
 	* Organizing Code
 	* Programs within Programs
-* Objects
 
 ## ✏️ Week 2 Homework
 
@@ -231,7 +229,11 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * [Gratifying Generatives - Vera Molnár by cozy coding](https://www.twitch.tv/videos/636772221?t=00h22m59s)
 * [Flow Fields](https://tylerxhobbs.com/essays/2020/flow-fields) by Tyler Hobbs, 2020 (Advanced)
 
-## Section 3: Transformation
+### Recommended Books
+* [Typewriter Art: A Modern Anthology](https://slate.com/human-interest/2014/04/typewriter-art-a-modern-anthology-by-barrie-tullett-photos.html) by Barrie Tullett
+* [The New Concrete: Visual Poetry in the 21st Century](https://www.cornerhousepublications.org/publications/the-new-concrete/)
+
+## Section 3: Transformation & Pattern Masking
 
 ### 6:30pm ✏️ Discuss Homework
 
@@ -266,7 +268,9 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 ### 8:30pm 👨🏻‍💻 Technical Demo
 
 * Transformations (scaling, rotation, translation, shearing)
-* Layouts (map)
+* Creating Layouts (map)
+* Image Layers & Masking
+* Objects and Agents
 * WebGL and 3D
 
 ## ✏️ Week 3 Homework
@@ -312,10 +316,9 @@ Make a static or kinetic typographic piece.
 ### 8:30pm 👨🏻‍💻 Technical Demo
 
 * Breaking data down into components
-* Representing Independent Data (Objects)
 * Fonts as Vectors (Arrays of Objects)
-* Case Study; Point-based Slit-Scanning
-* Case Study: Image-based Slit-Scanning
+* Case Study; Point-based Manipulation
+* Case Study: Image-based Copy
 
 ## ✏️ Week 4 Homework
 
