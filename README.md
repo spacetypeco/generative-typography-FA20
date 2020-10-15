@@ -180,25 +180,20 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 
 ### 6:30pm ✏️ Discuss Homework
 
-### 7:15pm 📖 Class Reading Discussion 
+### 7:00pm 📖 Class Reading Discussion 
 
-### 7:45pm 👩🏻‍💻 Early Generative Mediums & Artists
+### 7:30pm 👩🏻‍💻 Early Generative Mediums & Artists
 * Typewriter Art
 * ASCII Art
 	* - [ASCII-art-generator.org](https://www.ascii-art-generator.org/)
 * Concrete Poetry
-
-### Teaching Computers
-* Nature-Inspired algorithms
-* Fallacy of algorithms
-* Conways' Game of Life
 
 ### Generative Type Designers
 * MetaFont & Knuth
 * Hershey Fonts 
 
 *~ break ~*
-### 8:30pm 👨🏻‍💻 **Technical Demo**
+### 8:00pm 👨🏻‍💻 **Technical Demo**
 
 * Automation and Repetition (Loops!)
 * Representing Collections (Arrays, Grids)
@@ -211,22 +206,26 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 
 ## ✏️ Week 2 Homework
 
-#### Suggested Assignments
+### Assignment
 * (beginner) ASCII/Typewriter Art inspired piece
-* (intermediate+) Creating [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) inspired piece
+* (intermediate+) Creating [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) (Feel free to make a variation on it also)
 
 ### Readings
 * [The Fuzzy Edges of Character Encoding](https://rundog.art/issues/automateme/the-fuzzy-edges-of-character-encoding/) by Everest Pipkin
 * [Hieroglyphs](Readings/Hieroglyphs.pdf) by Aaron Marcus, 1978
 * [(P)(E)(R)(S)(E)(V)(E)(R)(E)](Readings/p-e-r-s-e-v-e-r-e.pdf) by Tauba Auerbach, 2017
 
+### Watch Videos
+* [Using the for loop with camera feed in p5.js](https://youtu.be/pqgiNu_-aLA)
+
+
 ### (Optional Readings)
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
+* [Computers Are Hard: representing alphabets with Bianca Berning](https://medium.com/computers-are-hard/computers-are-hard-representing-alphabets-with-bianca-berning-bc8c9a498343)
 
 
 ### Additional Resources
 * [7 Billion Humans Game](https://tomorrowcorporation.com/7billionhumans)
-* [Gratifying Generatives - Vera Molnár by cozy coding](https://www.twitch.tv/videos/636772221?t=00h22m59s)
 * [Flow Fields](https://tylerxhobbs.com/essays/2020/flow-fields) by Tyler Hobbs, 2020 (Advanced)
 
 ### Recommended Books
@@ -371,6 +370,9 @@ You will be working on a mini-project of your own over the next two weeks. For n
 
 ### Readings: 
 * [So You Want to Build a Generator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
+
+### Videos to watch:
+* [Hosting a p5 sketch on github pages](https://www.youtube.com/watch?v=ZneWjyn18e8) by Coding Train
 
 ### (Not Required) Readings: 
 * [The Hacker Aesthetic of Minimalist Code](https://hyperallergic.com/566816/the-hacker-aesthetic-of-minimalist-code/) by Daniel Temkin
