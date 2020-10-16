@@ -227,6 +227,7 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 #### (optional but recommended)
 * [Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY&feature=youtu.be) with Coding Train
 * [Function Basics](https://youtu.be/wRHAitGzBrg) with Coding Train
+* [Uploading Media Files](https://youtu.be/rO6M5hj0V-o) with Coding Train
 
 ### Readings
 * [The Fuzzy Edges of Character Encoding](https://ifyoulived.org/fuzzy/#The%20fuzzy%20edges%20of%20character%20encoding) by Everest Pipkin
@@ -298,8 +299,7 @@ Make a static or kinetic typographic piece.
 
 ### Video Tutorials
 
-#### About the p5.js Editor
-* [Uploading Media Files](https://youtu.be/rO6M5hj0V-o) with Coding Train
+TBD
 
 ### (Optional Readings)
 * [Computational Models for Expressive Dimensional Typography](https://www.are.na/block/6926303) by Peter Cho, 1999
