@@ -229,7 +229,7 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * [Function Basics](https://youtu.be/wRHAitGzBrg) with Coding Train
 
 ### Readings
-* [The Fuzzy Edges of Character Encoding](https://rundog.art/issues/automateme/the-fuzzy-edges-of-character-encoding/) by Everest Pipkin
+* [The Fuzzy Edges of Character Encoding](https://ifyoulived.org/fuzzy/#The%20fuzzy%20edges%20of%20character%20encoding) by Everest Pipkin
 * [(P)(E)(R)(S)(E)(V)(E)(R)(E)](Readings/p-e-r-s-e-v-e-r-e.pdf) by Tauba Auerbach, 2017
 
 ### (Optional Readings)
