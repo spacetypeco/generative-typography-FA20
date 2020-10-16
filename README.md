@@ -49,6 +49,7 @@ Throughout the course, we'll be available during class and on slack for all your
 
 Subject to adjustment.
 
+### [Link to Discussion Notes](https://docs.google.com/document/d/1SW7lgw5eu77nCzTdEyB1zXbEUOFRRxJf3Y8kNcb1M-s/edit?usp=sharing)
 
 |Week|Topic| Recordings & Sketches|Assignments
 |-----|----|-----------|------
@@ -62,6 +63,7 @@ Subject to adjustment.
 |8|Final Project - Ideation and Planning| |Final Project Draft
 |9|Final Project - Troubleshooting||Final Project Progress
 |10|Student Presentations||🎉
+
 
 ## Topic Sections
 
@@ -210,16 +212,28 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * (beginner) ASCII/Typewriter Art inspired piece
 * (intermediate+) Creating [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) (Feel free to make a variation on it also)
 
+### Watch Videos
+#### About For Loops
+* [while and for Loops](https://www.youtube.com/watch?v=cnRD9o6odjk&feature=emb_logo) with Coding Train
+* [Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8) with Coding Train
+
+#### About Arrays
+* [What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU&feature=youtu.be) by Coding Train
+* [Arrays and Loops](https://youtu.be/RXWO3mFuW-I) by Coding Train
+
+#### Using Webcam in p5.js
+* [Using the for loop with camera feed in p5.js](https://youtu.be/pqgiNu_-aLA) with Lynne
+
+#### (optional but recommended)
+* [Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY&feature=youtu.be) with Coding Train
+* [Function Basics](https://youtu.be/wRHAitGzBrg) with Coding Train
+
 ### Readings
 * [The Fuzzy Edges of Character Encoding](https://rundog.art/issues/automateme/the-fuzzy-edges-of-character-encoding/) by Everest Pipkin
-* [Hieroglyphs](Readings/Hieroglyphs.pdf) by Aaron Marcus, 1978
 * [(P)(E)(R)(S)(E)(V)(E)(R)(E)](Readings/p-e-r-s-e-v-e-r-e.pdf) by Tauba Auerbach, 2017
 
-### Watch Videos
-* [Using the for loop with camera feed in p5.js](https://youtu.be/pqgiNu_-aLA)
-
-
 ### (Optional Readings)
+* [Hieroglyphs](Readings/Hieroglyphs.pdf) by Aaron Marcus, 1978
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
 * [Computers Are Hard: representing alphabets with Bianca Berning](https://medium.com/computers-are-hard/computers-are-hard-representing-alphabets-with-bianca-berning-bc8c9a498343)
 
@@ -228,7 +242,7 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 * [7 Billion Humans Game](https://tomorrowcorporation.com/7billionhumans)
 * [Flow Fields](https://tylerxhobbs.com/essays/2020/flow-fields) by Tyler Hobbs, 2020 (Advanced)
 
-### Recommended Books
+### Reference Books
 * [Typewriter Art: A Modern Anthology](https://slate.com/human-interest/2014/04/typewriter-art-a-modern-anthology-by-barrie-tullett-photos.html) by Barrie Tullett
 * [The New Concrete: Visual Poetry in the 21st Century](https://www.cornerhousepublications.org/publications/the-new-concrete/)
 
@@ -281,6 +295,11 @@ Make a static or kinetic typographic piece.
 * [On Weaving](https://www.are.na/block/2597972) by Anni Albers
 	* Designing as Visual Organization (pages 71-80)
 * [Unimaginable Images](Readings/Unimaginable_Images.pdf) by Joseph P. Covington III, 1978 
+
+### Video Tutorials
+
+#### About the p5.js Editor
+* [Uploading Media Files](https://youtu.be/rO6M5hj0V-o) with Coding Train
 
 ### (Optional Readings)
 * [Computational Models for Expressive Dimensional Typography](https://www.are.na/block/6926303) by Peter Cho, 1999
@@ -370,6 +389,9 @@ You will be working on a mini-project of your own over the next two weeks. For n
 
 ### Readings: 
 * [So You Want to Build a Generator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
+
+### Doings:
+* [Electric Zine Maker by alienmelon](https://alienmelon.itch.io/electric-zine-maker) 
 
 ### Videos to watch:
 * [Hosting a p5 sketch on github pages](https://www.youtube.com/watch?v=ZneWjyn18e8) by Coding Train
