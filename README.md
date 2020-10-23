@@ -283,8 +283,6 @@ Note: Please be prepared to take a thought to bring back for discussion next wee
 
 * Transformations (scaling, rotation, translation, shearing)
 * Creating Layouts (map)
-* Image Layers & Masking
-* Objects and Agents
 * WebGL and 3D
 
 ## ✏️ Week 3 Homework
@@ -341,6 +339,7 @@ If you're not sure about transformations, concrete your understanding by going t
 ### 8:30pm 👨🏻‍💻 Technical Demo
 
 * Breaking data down into components
+* Objects and Agents
 * Fonts as Vectors (Arrays of Objects)
 * Case Study; Point-based Manipulation
 * Case Study: Image-based Copy
@@ -384,12 +383,13 @@ Create a Glitch-Aesthetic inspired piece.
 
 *~ break ~*
 ### 8:30pm 👨🏻‍💻 Technical Demo
+
 * Flow
 * Using math, flow over time, representing movement
 * Animation functions, easing
 * Following polyline paths — spirals etc.
 * Mouse movement paths
-
+* Image Layers & Masking
 	
 ## ✏️ Week 5 Homework
 You will be working on a mini-project of your own over the next two weeks. For next week, please come prepared to share your idea and a draft (so that you can ask for any technical help if need be :-))
