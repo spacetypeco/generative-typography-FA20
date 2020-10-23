@@ -297,18 +297,25 @@ Make a static or kinetic typographic piece.
 	* Designing as Visual Organization (pages 71-80)
 * [Unimaginable Images](Readings/Unimaginable_Images.pdf) by Joseph P. Covington III, 1978 
 
-### Video Tutorials
+### (Optional) Video Tutorials
 
-TBD
+If you're not sure about transformations, concrete your understanding by going through one or two of these!
+
+**Text Based Tutorial**
+
+* [Transformations and Functions](https://creative-coding.decontextualize.com/transformations-and-functions/)  by Allison Parrish
+
+**Video Based Tutorial**
+
+* [Transformations Pt.1](https://www.youtube.com/watch?v=o9sgjuh-CBM) with Coding Train
+* [Transformations Pt.2](https://www.youtube.com/watch?v=pkHZTWOoTLM) with Coding Train
+* [Transformations Pt.3](https://www.youtube.com/watch?v=IVMvq9rd8dA) with Coding Train
 
 ### (Optional Readings)
-* [Computational Models for Expressive Dimensional Typography](https://www.are.na/block/6926303) by Peter Cho, 1999
-	* Background, Thoughts On Type, Concluding Remarks
-	* Optionally, look through the experiments and other sections.
+
 * [Black Gooey Universe](Readings/BlackGooeyUniverse.pdf)
-* [Outer Space and Technological Progress](Readings/Outer_Space_and_Technoligical_Progress.pdf) by Roger Coqart, 1978
 * [On Software, or the Persistence of Visual Knowledge](Readings/wendy-hui-kyong-chun_on-software.pdf) by Wendy Chun, 2004
-* [Graphics Applications In the Environment](Readings/Graphics_Applications_In_the_Environment.pdf) by G. F. Kammerer-Luka, 1976
+
 
 ### Additional Resources
 
