@@ -348,12 +348,16 @@ If you're not sure about transformations, concrete your understanding by going t
 
 Create a Glitch-Aesthetic inspired piece.
 
+### 🌱 PSA for Week 4
+It is election week with lots of stressors going on! Please take time to take care of yourself first.
+
 ### Readings
-* [Glitch Aesthetics](https://loriemerson.net/2014/10/01/glitch-aesthetics/) by loriemerson
 * [Lossy text compression, for some reason?!](https://youtu.be/meovx9OqWJc) by Allison Parrish
-* [GltchLnguistx: The Machine in the Ghost / Static Trapped in Mouths](http://lab404.com/glitch/) (Note: You may have to Google your way through Flash links)
+* [Glitch Aesthetics](https://loriemerson.net/2014/10/01/glitch-aesthetics/) by loriemerson
 
 ### Optional Readings
+* [GltchLnguistx: The Machine in the Ghost / Static Trapped in Mouths](http://lab404.com/glitch/) (Note: You may have to Google your way through Flash links)
+
 * [The Aesthetics of Failure](Readings/Cascone_Aesthetics.pdf) by Kim Cascone
 * [GTLCH AESTHETICS](Readings/Morandi_Iman%202004_Glitch_Aesthetics.pdf) by Iman Moradi
 
