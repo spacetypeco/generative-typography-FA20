@@ -56,7 +56,7 @@ Subject to adjustment.
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Recording](https://cooper.zoom.us/rec/play/s7-8D_Hps6JQjRqqSIoWINAxwXFSZDCA0IEcO2yjbTthlACgj4iBM9TI4tVYcNWZ0yj0QUcfHw020zOc.21ib0LOP5aMwqEJ8)<br>[Sketch Collection](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) |Interactive piece <br> + Readings
 |2|[Art, Data, and Grids](#section-2-art-data-and-grids)| [Recording](https://cooper.zoom.us/rec/share/36I7zzDouYF57ash8e5TI344dZ9nbc5gVlfUtNA_fFYgFCsXHnLxwtDajvSWfErx.igy1jIygCxvTK1lL)| Grid-inspired composition <br> + Readings
 |3|[Transformation](#section-3-transformation)| [Recording](https://cooper.zoom.us/rec/share/CuZaJ1T-I-qbbyjdHoAVOGqvMsVPtaaAOw88bPq11FYyG9OabPMwmk1_5VeiKQvL.zGL68kq1UWYlrlFo) | Static or kinetic typography composition<br> + Readings
-|4|[Glitch Art](#section-4-glitch-art)||Glitch Art-inspired composition<br> + Readings
+|4|[Glitch Art](#section-4-glitch-art)|[Recording](https://cooper.zoom.us/rec/share/ICJbrljpfuHDjGLOTKn7b0BcpzsXaEutrLEQmqgViINsm5heJI3ZQThwngvQuw.aNZW7vTcN2KHtsrm)|Glitch Art-inspired composition<br> + Readings
 |5|[Movement and Animation](#section-5-movement-and-animation)| |Mini Project Ideation
 |6|Mini Project - Ideation and Planning||Mini Project Draft
 |7|Student Presentations||Final Project Ideation
