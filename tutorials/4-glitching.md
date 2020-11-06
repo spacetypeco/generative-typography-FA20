@@ -461,16 +461,12 @@ If you are copying pixels manually, you can set the fill directly before drawing
 
 Even if your original image _doesn't_ have color, you can apply a tint to add color :)
 
-In order to use `tint` with an image copy, you'll have to create new images before copying them to the canvas.
-
 ```js
-// Draw image with a random red tint onto a new layer
-let tintedLayer = createGraphics(width, height)
-tintedLayer.tint(random(100, 255), 0, 0)
-tintedLayer.image(img, 0, 0)
+// Set image tint to a random red tint
+tint(random(100, 255), 0, 0)
 
-// Copy from the tinted layer instead of the original image
-image(tintedLayer, ...)
+// Draw/copy image with a tint
+image(img, ...)
 ```
 
 The examples below tint the image in a different color every time we copy a row to the canvas:
