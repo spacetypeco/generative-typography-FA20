@@ -377,16 +377,14 @@ It is election week with lots of stressors going on! Please take time to take ca
 
 ## Section 5: Movement and Animation
 
-### 6:30pm ✏️ Discuss Homework
+### 6:30pm ✏️ Discuss Homework & Tech Q/A
 
-### 7:15pm 📖 Class Reading Discussion 
-
-### 7:45pm 👩🏻‍💻 Inspirational Artists
+### 7:30pm 👩🏻‍💻 Inspirational Artists
 - Excerpt from *Visual Grammar* by Christian Leborg
 - Inspirational contemporary artists and designers
 
 *~ break ~*
-### 8:30pm 👨🏻‍💻 Technical Demo
+### 8:00pm 👨🏻‍💻 Technical Demo
 
 * Flow
 * Using math, flow over time, representing movement
@@ -404,25 +402,27 @@ You will be working on a mini-project of your own over the next two weeks. For n
 ### Doings:
 * [Electric Zine Maker by alienmelon](https://alienmelon.itch.io/electric-zine-maker) 
 
-### Videos to watch:
-* [Hosting a p5 sketch on github pages](https://www.youtube.com/watch?v=ZneWjyn18e8) by Coding Train
 
-### (Not Required) Readings: 
+### (Optional) Readings: 
 * [The Hacker Aesthetic of Minimalist Code](https://hyperallergic.com/566816/the-hacker-aesthetic-of-minimalist-code/) by Daniel Temkin
 * [Materials for Computer People](https://www.behance.net/99u?title=kelli-anderson--materials-for-computer-people) by Kelli Anderson
-
-### Optional Readings:
 * [We Talked To The Artists Who Made A Pokemon Glitch Zine](https://www.vice.com/en_us/article/vvydw3/we-talked-to-the-artists-who-made-a-pokemon-glitch-zine)
 
-### Additional Resources
+### Additional Resources for Ideas
 * [Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)
 * [The Recode Project](http://recodeproject.com/): An Active Archive of Computer Art
 
 ### Technical Resources
 [Mathematics of Animation](https://www.youtube.com/watch?v=KbxJWx-ue0U&feature=youtu.be)
 
+### (Optional) Video to watch:
+* [Hosting a p5 sketch on github pages](https://www.youtube.com/watch?v=ZneWjyn18e8) by Coding Train
+
 ***
 ## General Resources
+
+### Office Hours are [here](https://calendly.com/lynneyun/generative-type-office-hours?month=2020-11)
+Please reach out if you would like an alternative time slot! :-)
 
 ### Accessibility
 * If your project is intended for people to interact with, check out [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) by Pablo Stanley. For us, this might mean things like:
