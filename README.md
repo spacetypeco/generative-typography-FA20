@@ -57,7 +57,7 @@ Subject to adjustment.
 |2|[Art, Data, and Grids](#section-2-art-data-and-grids)| [Recording](https://cooper.zoom.us/rec/share/36I7zzDouYF57ash8e5TI344dZ9nbc5gVlfUtNA_fFYgFCsXHnLxwtDajvSWfErx.igy1jIygCxvTK1lL)| Grid-inspired composition <br> + Readings
 |3|[Transformation](#section-3-transformation)| [Recording](https://cooper.zoom.us/rec/share/CuZaJ1T-I-qbbyjdHoAVOGqvMsVPtaaAOw88bPq11FYyG9OabPMwmk1_5VeiKQvL.zGL68kq1UWYlrlFo) | Static or kinetic typography composition<br> + Readings
 |4|[Glitch Art](#section-4-glitch-art)|[Recording](https://cooper.zoom.us/rec/share/ICJbrljpfuHDjGLOTKn7b0BcpzsXaEutrLEQmqgViINsm5heJI3ZQThwngvQuw.aNZW7vTcN2KHtsrm)|Glitch Art-inspired composition<br> + Readings
-|5|[Movement and Animation](#section-5-movement-and-animation)| |Mini Project Ideation
+|5|[Movement and Animation](#section-5-movement-and-animation)|[Recording](https://cooper.zoom.us/rec/share/o88cK8Pp8pHF0zaqdXuB-apMTnFvQm1TPkslRZwOECyGjnNTNJmSPiGZCxpErbo.PbBDU2goM90YweWw) |Mini Project Ideation
 |6|Mini Project - Ideation and Planning||Mini Project Draft
 |7|Student Presentations||Final Project Ideation
 |8|Final Project - Ideation and Planning| |Final Project Draft
